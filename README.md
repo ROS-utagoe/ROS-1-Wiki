@@ -1,3 +1,3 @@
-# ROS-1-Wiki
-This is the Wiki repository of ROS.
-Visit [Wiki page](https://github.com/ROS-utagoe/ROS-1-Wiki/wiki) for detail.
+# Utagoe Robotics Wiki
+This is a Wiki repository of Utagoe Robotics.
+Visit [Wiki page](https://github.com/ROS-utagoe/Wiki/wiki) for detail.
